@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-c738jo.indocuan-pro.cfd/sitemap.xml
